@@ -5,7 +5,7 @@ on:
     - cron: '0 5 * * *'   # 08:00 по Петрозаводску (UTC+3)
   workflow_dispatch: {}
   push:
-    branches: [main]
+    branches: [master]
 
 permissions:
   contents: write
