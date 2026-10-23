@@ -1,0 +1,15 @@
+{
+  "name": "Афиша Муз. театра Карелии",
+  "short_name": "Афиша",
+  "description": "Афиша Музыкального театра Республики Карелия и расписание хора",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1b1210",
+  "theme_color": "#5b1a2b",
+  "lang": "ru",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

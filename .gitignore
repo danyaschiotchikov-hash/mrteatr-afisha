@@ -1,0 +1,4 @@
+node_modules/
+*.log
+mister.html
+mister_data.json

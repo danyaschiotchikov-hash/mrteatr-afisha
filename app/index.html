@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Афиша Муз. театра Карелии</title>
+<meta name="theme-color" content="#5b1a2b">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>Муз. театр Карелии</h1>
+    <span id="updated" class="updated"></span>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" data-tab="afisha">Афиша</button>
+    <button class="tab" data-tab="vk">Хор (ВК)</button>
+  </nav>
+
+  <main id="afisha" class="panel active">
+    <div id="afisha-list" class="list"></div>
+  </main>
+
+  <main id="vk" class="panel">
+    <div id="vk-list" class="list"></div>
+  </main>
+
+  <div id="offline-banner" class="offline-banner hidden">Нет связи — показаны сохранённые данные</div>
+
+  <script src="app.js"></script>
+</body>
+</html>

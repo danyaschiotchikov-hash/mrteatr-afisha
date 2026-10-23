@@ -1,0 +1,52 @@
+name: Update data and deploy
+
+on:
+  schedule:
+    - cron: '0 5 * * *'   # 08:00 по Петрозаводску (UTC+3)
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Обновить афишу театра
+        run: node scripts/update-afisha.mjs
+
+      - name: Обновить посты ВК (только чтение)
+        env:
+          VK_GROUP_DOMAIN: ${{ secrets.VK_GROUP_DOMAIN }}
+          VK_TOKEN: ${{ secrets.VK_TOKEN }}
+        run: node scripts/update-vk.mjs
+
+      - name: Закоммитить обновлённые данные
+        run: |
+          git config user.name "afisha-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add app/data/afisha.json app/data/vk.json
+          git diff --cached --quiet || git commit -m "data: автообновление афиши и ВК"
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: app
+
+      - uses: actions/deploy-pages@v4
