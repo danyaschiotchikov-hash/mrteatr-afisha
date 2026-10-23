@@ -92,6 +92,7 @@ body {
 
 .card-title { font-size: 1.05rem; font-weight: 600; margin: 0.15rem 0; }
 .card-sub { color: var(--text-dim); font-size: 0.85rem; }
+.card-sub.conductor-line { color: var(--accent-dim); font-weight: 600; }
 
 .badge {
   display: inline-block;

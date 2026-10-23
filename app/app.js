@@ -40,13 +40,14 @@ function renderAfisha(data) {
 
   list.innerHTML = data.performances
     .map((p) => {
-      const conductor = p.conductors?.length ? p.conductors.join(', ') : 'не указан';
+      const conductor = p.conductors?.length ? p.conductors.join(', ') : null;
       const cast = (p.cast ?? [])
         .map((c) => `<div class="cast-row"><span class="cast-role">${c.role}</span><span class="cast-names">${c.names.join(', ')}</span></div>`)
         .join('');
       const ticketBadge = p.hasTickets
         ? '<span class="badge">билеты есть</span>'
         : '<span class="badge no-tickets">билетов нет</span>';
+      const durationLine = [p.spectacle.duration, p.spectacle.intermission].filter(Boolean).join(', ');
 
       return `
         <div class="card" data-id="${p.id}">
@@ -54,12 +55,13 @@ function renderAfisha(data) {
             <div>
               <div class="card-title">${p.spectacle.title}</div>
               <div class="card-sub">${p.spectacle.author ?? ''} · ${p.spectacle.genre ?? ''}</div>
+              ${durationLine ? `<div class="card-sub">⏱ ${durationLine}</div>` : ''}
+              ${conductor ? `<div class="card-sub conductor-line">Дирижёр: ${conductor}</div>` : ''}
               <div class="card-sub">${ticketBadge}<span class="badge">${p.spectacle.age ?? ''}</span></div>
             </div>
             <div class="card-date">${fmtDate(p.date)}</div>
           </div>
           <div class="card-details">
-            <div class="conductor">Дирижёр: ${conductor}</div>
             ${cast}
             ${p.spectacle.description ? `<div class="description">${p.spectacle.description}</div>` : ''}
           </div>
