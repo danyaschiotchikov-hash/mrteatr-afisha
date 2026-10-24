@@ -2,3 +2,9 @@ node_modules/
 *.log
 mister.html
 mister_data.json
+
+# Подписанный Android-пакет и ключ — не для публичного репозитория
+android-release/
+android-package*.zip
+
+scripts/upload-server.mjs

@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.danyaschiotchikov_hash.twa",
+        "sha256_cert_fingerprints": ["F7:DF:39:7B:A4:1F:53:C1:8D:C8:78:91:E5:3F:BA:20:03:DF:D5:3C:3D:2B:01:72:94:02:D7:FE:C7:7B:0C:4E"]
+      }
+    }]
