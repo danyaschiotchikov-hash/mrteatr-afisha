@@ -41,14 +41,37 @@ VK_GROUP_DOMAIN=xxx VK_TOKEN=xxx node scripts/update-vk.mjs
 node scripts/dev-server.mjs         # http://localhost:8098
 ```
 
+## Android: APK и виджет на главный экран
+
+Нативная Android-обёртка (TWA — Trusted Web Activity) с настоящим системным
+виджетом лежит отдельно от этого репозитория, в `C:\dev\mrteatr-afisha-android`
+(вне git — там Android SDK/Gradle кэш, слишком большой для репозитория).
+
+- Open-режим приложения — та же страница из `app/`, просто в обёртке без
+  адресной строки (подтверждается через `app/.well-known/assetlinks.json`).
+- Виджет: `app/src/main/java/.../AfishaWidgetProvider.java` — раз в 6 часов
+  тянет `data/afisha.json` и показывает ближайший спектакль.
+- Подписано одним и тем же ключом: `android-release/signing.keystore`
+  (пароль и алиас — в `android-release/signing-key-info.txt`, **храните в
+  надёжном месте**, он нужен для всех будущих обновлений apk/aab, иначе
+  Android откажется ставить новую версию поверх старой).
+
+Локальная пересборка после правок на сайте (меняется `web_manifest_url` —
+значит и Android-обёртка может взять новые данные без пересборки, а вот
+изменения в `AndroidManifest.xml`/Java-коде требуют пересборки):
+
+```bash
+# один раз: Android SDK в C:\Android, JDK 17 через winget (Microsoft.OpenJDK.17)
+cd /c/dev/mrteatr-afisha-android
+JAVA_HOME="/c/Program Files/Microsoft/jdk-17.0.20.101-hotspot" \
+ANDROID_HOME="/c/Android" ANDROID_SDK_ROOT="/c/Android" \
+  ./gradlew.bat assembleRelease
+# затем zipalign + apksigner с ключом android-release/signing.keystore
+# (пароль/алиас — в signing-key-info.txt рядом).
+```
+
 ## Известные ограничения
 
-- Это PWA (сайт-приложение), а не нативное Android-приложение — значит
-  **нет системного виджета** на рабочем столе (глянуть без открытия
-  приложения). Есть иконка-ярлык, открывается как обычное приложение в
-  полноэкранном режиме. Настоящий widget потребует нативной Android-обёртки
-  поверх этого же кода (TWA + AppWidget) — можно добавить отдельным шагом
-  позже.
 - Фото-расписания из ВК показываются как есть (картинка + текст поста), без
   распознавания текста на фото (OCR). Можно добавить позже, но результат
   распознавания рукописных/оформленных скринов ненадёжен.

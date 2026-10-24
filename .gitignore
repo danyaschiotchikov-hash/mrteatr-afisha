@@ -8,3 +8,4 @@ android-release/
 android-package*.zip
 
 scripts/upload-server.mjs
+android-src/
