@@ -10,6 +10,13 @@ function fmtDate(iso) {
   return `${dd}.${mm} ${hh}:${mi}, ${days[d.getDay()]}`;
 }
 
+function fmtDateOnly(isoDate) {
+  const [y, m, d] = isoDate.split('-');
+  const days = ['вс', 'пн', 'вт', 'ср', 'чт', 'пт', 'сб'];
+  const day = new Date(`${isoDate}T00:00:00`).getDay();
+  return `${d}.${m}.${y} (${days[day]})`;
+}
+
 function fmtUpdated(iso) {
   const d = new Date(iso);
   return `обновлено ${String(d.getDate()).padStart(2, '0')}.${String(d.getMonth() + 1).padStart(2, '0')} ${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`;
@@ -48,6 +55,9 @@ function renderAfisha(data) {
         ? '<span class="badge">билеты есть</span>'
         : '<span class="badge no-tickets">билетов нет</span>';
       const durationLine = [p.spectacle.duration, p.spectacle.intermission].filter(Boolean).join(', ');
+      const recordings = (p.spectacle.recordings ?? [])
+        .map((r) => `<a class="recording-link" href="${r.url}" target="_blank" rel="noopener">${fmtDateOnly(r.date)}</a>`)
+        .join('');
 
       return `
         <div class="card" data-id="${p.id}">
@@ -64,6 +74,7 @@ function renderAfisha(data) {
           <div class="card-details">
             ${cast}
             ${p.spectacle.description ? `<div class="description">${p.spectacle.description}</div>` : ''}
+            ${recordings ? `<div class="recordings"><div class="recordings-title">Видеозаписи прошлых показов</div><div class="recordings-list">${recordings}</div></div>` : ''}
           </div>
         </div>`;
     })

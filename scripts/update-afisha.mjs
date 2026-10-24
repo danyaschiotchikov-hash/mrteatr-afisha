@@ -1,7 +1,30 @@
 // Тянет афишу с mrteatr.ru: список спектаклей + состав/дирижёра на конкретную дату.
 // Публичный JSON API театра (найден в сетевых запросах сайта), парсинг HTML не нужен.
 
+import { buildArchive, normalize } from './update-archive.mjs';
+
 const BASE = 'https://mrteatr.ru';
+
+// Название спектакля в афише и название папки с записью на Диске совпадают не всегда
+// дословно ("Мистер Икс" / "Мистер Х", "Кошкин дом. Гастроли" / "Кошкин дом").
+// Сначала ищем точное совпадение нормализованного названия, а если его нет —
+// совпадение по вхождению подстроки, предпочитая более длинное (точное) совпадение.
+function findRecordings(spectacleTitle, recordings, recordingKeys) {
+  const key = normalize(spectacleTitle);
+
+  if (recordingKeys.has(key)) {
+    return recordings.filter((r) => r.key === key);
+  }
+
+  let bestKey = null;
+  for (const rk of recordingKeys) {
+    if (key.includes(rk) || rk.includes(key)) {
+      if (!bestKey || rk.length > bestKey.length) bestKey = rk;
+    }
+  }
+  if (!bestKey) return [];
+  return recordings.filter((r) => r.key === bestKey);
+}
 
 async function fetchJson(url) {
   const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (afisha-widget)' } });
@@ -45,6 +68,15 @@ function pickRoleNames(persons) {
 export async function buildAfisha() {
   const raw = await fetchAffiche();
 
+  let archive = { recordings: [] };
+  try {
+    archive = await buildArchive();
+  } catch (err) {
+    console.error(`[afisha] архив записей недоступен: ${err.message}`);
+  }
+  const recordingKeys = new Set(archive.recordings.map((r) => r.key));
+  const recordingsCache = new Map(); // title -> matched recordings (чтобы не искать повторно)
+
   const slugs = [...new Set(raw.map((it) => it.spectacle.slug))];
   const eventsBySlug = new Map();
   const detailBySlug = new Map();
@@ -71,6 +103,14 @@ export async function buildAfisha() {
     }));
     const detail = detailBySlug.get(it.spectacle.slug);
 
+    if (!recordingsCache.has(it.spectacle.title)) {
+      const found = findRecordings(it.spectacle.title, archive.recordings, recordingKeys)
+        .map((r) => ({ date: r.date, url: r.url }))
+        .filter((r) => r.url)
+        .sort((a, b) => b.date.localeCompare(a.date));
+      recordingsCache.set(it.spectacle.title, found);
+    }
+
     return {
       id: it.id,
       date: it.date,
@@ -89,6 +129,7 @@ export async function buildAfisha() {
         image: it.spectacle.image ? `${BASE}${it.spectacle.image}` : null,
         premiereDate: detail?.premiereDate ?? null,
         authors: detail?.authors ?? [],
+        recordings: recordingsCache.get(it.spectacle.title),
       },
       conductors,
       cast,

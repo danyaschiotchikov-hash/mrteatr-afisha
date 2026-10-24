@@ -19,7 +19,8 @@
         "description": "Обратите внимание, «Экспедиция за кулисы» проходит без участия родителей, для детей от 7 до 12 лет. Театральный педагог встречает участников в зрительском гардеробе, а по окончании провожает детей до гардероба к родителям. «Экспедиция за кулисы» — это не просто экскурсия, а настоящее приключение с элементами театрального урока. Зрители заглянут туда, куда обычному зрителю вход строго воспрещен. Свои профессиональные секреты откроют гримеры, костюмеры, художники ми другие театральные специалисты.  Мы узнаем, кто открывает занавес,  управляет актерами, и решим, кто же в театре самый главный.  Дети получат маршрутный лист и будут его заполнять по ходу движения по театру.  После такой экскурсии ребенок будет смотреть спектакли совершенно другими глазами.",
         "image": "https://mrteatr.ru/content/spectacles/4b/4bc96f2f7517f7ad96162a9bcd4bca41-ekspediciya-za-kulisy.jpg",
         "premiereDate": "",
-        "authors": []
+        "authors": [],
+        "recordings": []
       },
       "conductors": [],
       "cast": []
@@ -137,6 +138,40 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2026-02-22",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2026%2002%2022%20%D0%A1%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A4%D0%B8%D0%B3%D0%B0%D1%80%D0%BE"
+          },
+          {
+            "date": "2025-10-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2010%2026%20%D0%A1%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A4%D0%B8%D0%B3%D0%B0%D1%80%D0%BE"
+          },
+          {
+            "date": "2025-03-02",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2003%2002%20%D0%A1%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A4%D0%B8%D0%B3%D0%B0%D1%80%D0%BE"
+          },
+          {
+            "date": "2024-04-10",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2004%2010%20%D0%A1%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A4%D0%B8%D0%B3%D0%B0%D1%80%D0%BE"
+          },
+          {
+            "date": "2024-02-11",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2002%2011%20%D0%A1%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A4%D0%B8%D0%B3%D0%B0%D1%80%D0%BE"
+          },
+          {
+            "date": "2023-09-29",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2023%2009%2029%20%D0%A1%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A4%D0%B8%D0%B3%D0%B0%D1%80%D0%BE"
+          },
+          {
+            "date": "2023-04-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2023%2004%2021%20%D0%A1%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A4%D0%B8%D0%B3%D0%B0%D1%80%D0%BE"
+          },
+          {
+            "date": "2023-03-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2023%2003%2008%20%D0%A4%D0%B8%D0%B3%D0%B0%D1%80%D0%BE"
+          }
         ]
       },
       "conductors": [
@@ -253,7 +288,8 @@
         "description": "Музыкальный театр приглашает поближе познакомиться с устройством театра. Участники экскурсии познакомятся с архитектурой театра, устройством зрительного зала и сцены, узнают подробности о работе театральных цехов и о процессе постановки спектакля. Участники посетят зрительный зал и зеркальное фойе, театральные цеха, заглянут в оркестровую яму и поднимутся на сцену театра. Экскурсия позволит увидеть некоторые грани жизни театра по другую сторону сцены, увидеть, как много людей разных профессий работают над выпуском спектаклей.",
         "image": "https://mrteatr.ru/content/spectacles/1a/1aeccac62626973105a6e1631e6839b0-img-4952.jpg",
         "premiereDate": "",
-        "authors": []
+        "authors": [],
+        "recordings": []
       },
       "conductors": [],
       "cast": []
@@ -345,6 +381,32 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2026-04-01",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2026%2004%2001%20%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%80%20%D0%A5"
+          },
+          {
+            "date": "2026-02-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2026%2002%2019%20%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%80%20%D0%A5"
+          },
+          {
+            "date": "2025-03-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2003%2004%20%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%80%20%D0%98%D0%BA%D1%81"
+          },
+          {
+            "date": "2024-04-07",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2004%2007%20%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%80%20%D0%A5"
+          },
+          {
+            "date": "2023-12-23",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2023%2012%2023%20%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%80%20%D0%A5"
+          },
+          {
+            "date": "2020-10-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2020%2010%2024%20%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%80%20%D0%A5"
           }
         ]
       },
@@ -496,6 +558,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2021-10-16",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2021%2010%2016%20%D0%9A%D0%BE%D1%88%D0%BA%D0%B8%D0%BD%20%D0%B4%D0%BE%D0%BC"
+          }
         ]
       },
       "conductors": [],
@@ -591,7 +659,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [],
       "cast": [
@@ -700,6 +769,68 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2026-04-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2004%2019%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2026-02-15",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2002%2015%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2025-10-12",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2010%2012%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2025-05-11",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2005%2011%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2024-10-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2010%2004%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2024-05-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2005%2024%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2024-03-10",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2003%2010%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2024-01-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2001%2026%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2023-11-09",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2011%2009%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2023-06-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2006%2004%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2023-02-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2002%2003%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2022-10-09",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2010%2009%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%20"
+          },
+          {
+            "date": "2022-06-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2006%2019%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2022-03-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2003%2030%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          },
+          {
+            "date": "2022-01-22",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2001%2022%20%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE"
+          }
         ]
       },
       "conductors": [
@@ -785,7 +916,8 @@
         "description": "Мануэль де Фалья – крупнейшая фигура испанской музыки ХХ века. В его творчестве отчетливо проявилась синтетичность, свойственная испанской культуре. В сочинениях композитора плотно переплелись влияния европейских течений первой трети прошлого века, арабо-мавританских традиций, эллинистического и в особенности дионисийского начала его родины – Андалусии. Его наполненное свободным импровизационным духом творчество привлекает исполнителей и исследователей.\r\nВ концерте будет представлен своеобразный творческий мир Мануэля де Фалья не только на материале его вокальных сочинений, но и в контексте художественной культуры первой трети ХХ века. Пикассо, Лорка, Равель, Дебюсси, Дягилев, – вот не полный список знаменитостей, окружавших композитора, чьи произведения стали гордостью испанской и мировой музыки.",
         "image": "https://mrteatr.ru/content/spectacles/2a/2a7df025ebd5e2f682117e5ec86f9629-sol2.jpg",
         "premiereDate": "",
-        "authors": []
+        "authors": [],
+        "recordings": []
       },
       "conductors": [],
       "cast": [
@@ -914,6 +1046,20 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2025-05-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2005%2003%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
+          },
+          {
+            "date": "2024-03-06",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2003%2006%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
+          },
+          {
+            "date": "2024-01-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2001%2003%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
           }
         ]
       },
@@ -1049,7 +1195,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [],
       "cast": []
@@ -1151,6 +1298,20 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2025-05-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2005%2003%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
+          },
+          {
+            "date": "2024-03-06",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2003%2006%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
+          },
+          {
+            "date": "2024-01-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2001%2003%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
           }
         ]
       },
@@ -1365,6 +1526,44 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2026-05-11",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2026%2005%2011%20%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD%20%D0%B8%20%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0"
+          },
+          {
+            "date": "2026-02-11",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2026%2002%2011%20%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD%20%D0%B8%20%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0"
+          },
+          {
+            "date": "2025-09-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2009%2019%20%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD%20%D0%B8%20%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0"
+          },
+          {
+            "date": "2025-04-09",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2004%2009%20%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD%20%D0%B8%20%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0"
+          },
+          {
+            "date": "2025-02-23",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2002%2023%20%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD%20%D0%B8%20%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0"
+          },
+          {
+            "date": "2024-11-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2011%2004%20%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD%20%D0%B8%20%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0"
+          },
+          {
+            "date": "2024-05-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2005%2003%20%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD%20%D0%B8%20%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0"
+          },
+          {
+            "date": "2024-02-18",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2002%2018%20%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD%20%D0%B8%20%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0"
+          },
+          {
+            "date": "2024-01-28",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2001%2028%20%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD%20%D0%B8%20%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0"
+          }
         ]
       },
       "conductors": [
@@ -1516,6 +1715,44 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2025-11-23",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2011%2023%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2025-04-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2004%2013%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2024-09-20",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82%20%D0%B2%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B5/2024%2009%2020%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2024-05-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2005%2008%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2024-03-31",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2003%2031%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2023-12-29",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2023%2012%2029%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2023-10-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2023%2010%2008%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2023-01-05",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2023%2001%2005%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2022-11-16",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2011%2016%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          }
         ]
       },
       "conductors": [],
@@ -1662,6 +1899,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2016-01-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2016%2001%2030%20%D0%A2%D0%B5%D1%80%D0%B5%D0%BC%D0%BE%D0%BA"
+          }
         ]
       },
       "conductors": [],
@@ -1727,7 +1970,8 @@
         "description": "Обратите внимание, «Экспедиция за кулисы» проходит без участия родителей, для детей от 7 до 12 лет. Театральный педагог встречает участников в зрительском гардеробе, а по окончании провожает детей до гардероба к родителям. «Экспедиция за кулисы» — это не просто экскурсия, а настоящее приключение с элементами театрального урока. Зрители заглянут туда, куда обычному зрителю вход строго воспрещен. Свои профессиональные секреты откроют гримеры, костюмеры, художники ми другие театральные специалисты.  Мы узнаем, кто открывает занавес,  управляет актерами, и решим, кто же в театре самый главный.  Дети получат маршрутный лист и будут его заполнять по ходу движения по театру.  После такой экскурсии ребенок будет смотреть спектакли совершенно другими глазами.",
         "image": "https://mrteatr.ru/content/spectacles/4b/4bc96f2f7517f7ad96162a9bcd4bca41-ekspediciya-za-kulisy.jpg",
         "premiereDate": "",
-        "authors": []
+        "authors": [],
+        "recordings": []
       },
       "conductors": [],
       "cast": []
@@ -1824,6 +2068,40 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2026-04-15",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2026%2004%2015%20%D0%9F%D0%B0%D1%8F%D1%86%D1%8B"
+          },
+          {
+            "date": "2025-12-10",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2012%2010%20%D0%9F%D0%B0%D1%8F%D1%86%D1%8B"
+          },
+          {
+            "date": "2025-02-07",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2002%2007%20%D0%9F%D0%B0%D1%8F%D1%86%D1%8B"
+          },
+          {
+            "date": "2024-03-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2003%2030%20%D0%9F%D0%B0%D1%8F%D1%86%D1%8B"
+          },
+          {
+            "date": "2024-02-25",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2002%2025%20%D0%9F%D0%B0%D1%8F%D1%86%D1%8B"
+          },
+          {
+            "date": "2023-03-29",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2023%2003%2029%20%D0%9F%D0%B0%D1%8F%D1%86%D1%8B%20(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+          },
+          {
+            "date": "2022-11-18",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2011%2018%20%D0%9F%D0%B0%D1%8F%D1%86%D1%8B"
+          },
+          {
+            "date": "2022-04-15",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2004%2015%20%D0%9F%D0%B0%D1%8F%D1%86%D1%8B"
           }
         ]
       },
@@ -1954,6 +2232,12 @@
                 "hasPage": false
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2021-10-16",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2021%2010%2016%20%D0%9A%D0%BE%D1%88%D0%BA%D0%B8%D0%BD%20%D0%B4%D0%BE%D0%BC"
           }
         ]
       },
@@ -2095,7 +2379,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [
         "Роман Калошин"
@@ -2159,7 +2444,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [],
       "cast": [
@@ -2248,6 +2534,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2021-12-22",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2021%2012%2022%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%20%D0%A8%D0%B0%D0%BF%D0%BE%D1%87%D0%BA%D0%B0"
+          }
         ]
       },
       "conductors": [],
@@ -2301,7 +2593,8 @@
         "description": "Музыкальный театр приглашает поближе познакомиться с устройством театра. Участники экскурсии познакомятся с архитектурой театра, устройством зрительного зала и сцены, узнают подробности о работе театральных цехов и о процессе постановки спектакля. Участники посетят зрительный зал и зеркальное фойе, театральные цеха, заглянут в оркестровую яму и поднимутся на сцену театра. Экскурсия позволит увидеть некоторые грани жизни театра по другую сторону сцены, увидеть, как много людей разных профессий работают над выпуском спектаклей.",
         "image": "https://mrteatr.ru/content/spectacles/1a/1aeccac62626973105a6e1631e6839b0-img-4952.jpg",
         "premiereDate": "",
-        "authors": []
+        "authors": [],
+        "recordings": []
       },
       "conductors": [],
       "cast": []
@@ -2334,7 +2627,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [],
       "cast": []
@@ -2416,6 +2710,56 @@
                 "hasPage": false
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2026-03-27",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2003%2027%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2026-01-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2001%2004%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2026%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2024%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA%20"
+          },
+          {
+            "date": "2025-01-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2001%2008%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2024-02-02",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2002%2002%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-04-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2004%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-02-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2002%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-11-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2011%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
           }
         ]
       },
@@ -2586,6 +2930,56 @@
                 "hasPage": false
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2026-03-27",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2003%2027%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2026-01-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2001%2004%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2026%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2024%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA%20"
+          },
+          {
+            "date": "2025-01-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2001%2008%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2024-02-02",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2002%2002%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-04-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2004%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-02-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2002%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-11-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2011%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
           }
         ]
       },
@@ -2767,6 +3161,16 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2024-11-17",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2011%2017%20%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%BC%D1%83%D1%80%D0%B0%D0%B2%D1%8C%D0%B8%D1%88%D0%BA%D0%B8%20(13%2000)"
+          },
+          {
+            "date": "2024-11-17",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2011%2017%20%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%BC%D1%83%D1%80%D0%B0%D0%B2%D1%8C%D0%B8%D1%88%D0%BA%D0%B8%20(17%2000)"
+          }
         ]
       },
       "conductors": [],
@@ -2850,7 +3254,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [],
       "cast": []
@@ -2883,7 +3288,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [],
       "cast": []
@@ -2995,6 +3401,60 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2026-04-10",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2004%2010%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2025-05-23",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2005%2023%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2024-10-25",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2010%2025%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2024-04-27",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2004%2027%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2024-03-01",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2003%2001%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-10-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2010%2013%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-05-20",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2005%2020%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-05-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2005%2019%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-03-17",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2003%2017%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-01-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2001%2021%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-01-20",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2001%2020%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2022-11-20",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2011%2020%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0%20"
+          },
+          {
+            "date": "2022-09-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2009%2030%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
           }
         ]
       },
@@ -3164,6 +3624,60 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2026-04-10",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2004%2010%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2025-05-23",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2005%2023%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2024-10-25",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2010%2025%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2024-04-27",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2004%2027%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2024-03-01",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2003%2001%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-10-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2010%2013%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-05-20",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2005%2020%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-05-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2005%2019%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-03-17",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2003%2017%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-01-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2001%2021%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2023-01-20",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2001%2020%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          },
+          {
+            "date": "2022-11-20",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2011%2020%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0%20"
+          },
+          {
+            "date": "2022-09-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2009%2030%20%D0%90%D0%BB%D0%B8%D1%81%D0%B0"
+          }
         ]
       },
       "conductors": [
@@ -3321,6 +3835,12 @@
                 "hasPage": false
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2025-01-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2001%2026%20%D0%A5%D1%80%D1%83%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%82%D1%83%D1%84%D0%B5%D0%BB%D1%8C%D0%BA%D0%B0"
           }
         ]
       },
@@ -3483,7 +4003,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [],
       "cast": [
@@ -3575,7 +4096,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [
         "Михаил Синькевич"
@@ -3646,7 +4168,21 @@
         "description": "По традиции Гала-концерт звёзд мировой оперной сцены станет завершающим аккордом фестиваля VIII Фестиваля «Опера Vita». Музыкальный театр Карелии снова готовит для зрителей настоящий праздник. В концерте примут участие: солистка Мариинского театра лауреат международных конкурсов Зинаида Царенко, солист Большого театра России лауреат Международного конкурса Игорь Онищенко, ведущие солисты и оркестр Музыкального театра Карелии под управлением музыкального руководителя фестиваля заслуженного деятеля искусств Карелии Михаила Синькевича.  В программе: арии и дуэты из знаменитых опер русских и зарубежных композиторов.",
         "image": "https://mrteatr.ru/content/spectacles/aa/aac4c27c6a870bafdf282c240749b80b-xji7srmdo4y.jpg",
         "premiereDate": "",
-        "authors": []
+        "authors": [],
+        "recordings": [
+          {
+            "date": "2026-01-07",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2001%2007%20%D0%93%D0%B0%D0%BB%D0%B0-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82"
+          },
+          {
+            "date": "2024-11-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2011%2024%20%D0%93%D0%B0%D0%BB%D0%B0-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82"
+          },
+          {
+            "date": "2023-12-17",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2023%2012%2017%20%D0%93%D0%B0%D0%BB%D0%B0-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82"
+          }
+        ]
       },
       "conductors": [
         "Михаил Синькевич"
@@ -3678,7 +4214,8 @@
         "description": "В музыке Сергея Рахманинова русская душа обрела искреннее, трепетное и масштабное звучание. Концертная программа «Отражения: голос и рояль» раскроет Рахманинова-лирика во всем многообразии его творческих исканий — от прозрачной тишины до изысканной философии Серебряного века. Слушатели будут следить за музыкальным диалогом двух равных величин: летящего, чуткого сопрано и живописного, глубокого рояля. Партия фортепиано у Рахманинова никогда не была просто аккомпанементом, это полноценный океан смыслов, в котором отражается каждое слово певицы.",
         "image": "https://mrteatr.ru/content/spectacles/2d/2db01c9673f883658f465c995ba1bc81-muzey-izo.jpg",
         "premiereDate": "",
-        "authors": []
+        "authors": [],
+        "recordings": []
       },
       "conductors": [],
       "cast": [
@@ -3780,7 +4317,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [],
       "cast": [
@@ -3892,7 +4430,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [],
       "cast": [
@@ -4004,7 +4543,8 @@
               }
             ]
           }
-        ]
+        ],
+        "recordings": []
       },
       "conductors": [],
       "cast": [
@@ -4136,6 +4676,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2024-01-07",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2001%2007%20%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%B0%D0%BB%D0%B0-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82"
+          }
         ]
       },
       "conductors": [],
@@ -4239,6 +4785,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2024-01-07",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2001%2007%20%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%B0%D0%BB%D0%B0-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82"
+          }
         ]
       },
       "conductors": [],
@@ -4306,6 +4858,12 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
           }
         ]
       },
@@ -4400,6 +4958,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
+          }
         ]
       },
       "conductors": [],
@@ -4492,6 +5056,12 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
           }
         ]
       },
@@ -4586,6 +5156,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
+          }
         ]
       },
       "conductors": [],
@@ -4679,6 +5255,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
+          }
         ]
       },
       "conductors": [],
@@ -4771,6 +5353,12 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
           }
         ]
       },
@@ -4879,6 +5467,56 @@
                 "hasPage": false
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2026-03-27",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2003%2027%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2026-01-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2001%2004%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2026%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2024%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA%20"
+          },
+          {
+            "date": "2025-01-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2001%2008%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2024-02-02",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2002%2002%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-04-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2004%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-02-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2002%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-11-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2011%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
           }
         ]
       },
@@ -5044,6 +5682,56 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2026-03-27",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2003%2027%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2026-01-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2001%2004%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2026%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2024%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA%20"
+          },
+          {
+            "date": "2025-01-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2001%2008%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2024-02-02",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2002%2002%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-04-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2004%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-02-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2002%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-11-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2011%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          }
         ]
       },
       "conductors": [],
@@ -5197,6 +5885,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
+          }
         ]
       },
       "conductors": [],
@@ -5290,6 +5984,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
+          }
         ]
       },
       "conductors": [],
@@ -5382,6 +6082,12 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
           }
         ]
       },
@@ -5490,6 +6196,56 @@
                 "hasPage": false
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2026-03-27",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2003%2027%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2026-01-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2001%2004%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2026%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2024%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA%20"
+          },
+          {
+            "date": "2025-01-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2001%2008%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2024-02-02",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2002%2002%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-04-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2004%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-02-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2002%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-11-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2011%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
           }
         ]
       },
@@ -5644,6 +6400,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
+          }
         ]
       },
       "conductors": [],
@@ -5736,6 +6498,12 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
           }
         ]
       },
@@ -5844,6 +6612,44 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2025-11-23",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2011%2023%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2025-04-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2004%2013%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2024-09-20",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82%20%D0%B2%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B5/2024%2009%2020%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2024-05-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2005%2008%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2024-03-31",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2003%2031%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2023-12-29",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2023%2012%2029%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2023-10-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2023%2010%2008%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2023-01-05",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2023%2001%2005%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
+          },
+          {
+            "date": "2022-11-16",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2011%2016%20%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C"
           }
         ]
       },
@@ -5976,6 +6782,56 @@
                 "hasPage": false
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2026-03-27",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2003%2027%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2026-01-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2001%2004%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2026%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2024%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA%20"
+          },
+          {
+            "date": "2025-01-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2001%2008%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2024-02-02",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2002%2002%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-04-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2004%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-02-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2002%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-11-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2011%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
           }
         ]
       },
@@ -6145,6 +7001,56 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2026-03-27",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2003%2027%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2026-01-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2001%2004%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2026%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2024%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA%20"
+          },
+          {
+            "date": "2025-01-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2001%2008%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2024-02-02",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2002%2002%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-04-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2004%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-02-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2002%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-11-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2011%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          }
         ]
       },
       "conductors": [],
@@ -6298,6 +7204,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
+          }
         ]
       },
       "conductors": [],
@@ -6391,6 +7303,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
+          }
         ]
       },
       "conductors": [],
@@ -6483,6 +7401,12 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
           }
         ]
       },
@@ -6611,6 +7535,12 @@
                 "hasPage": false
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2025-01-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2001%2026%20%D0%A5%D1%80%D1%83%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%82%D1%83%D1%84%D0%B5%D0%BB%D1%8C%D0%BA%D0%B0"
           }
         ]
       },
@@ -6764,6 +7694,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2025-01-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2001%2026%20%D0%A5%D1%80%D1%83%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%82%D1%83%D1%84%D0%B5%D0%BB%D1%8C%D0%BA%D0%B0"
+          }
         ]
       },
       "conductors": [],
@@ -6895,6 +7831,56 @@
                 "hasPage": false
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2026-03-27",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2003%2027%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2026-01-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2001%2004%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2026%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2024%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA%20"
+          },
+          {
+            "date": "2025-01-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2001%2008%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2024-02-02",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2002%2002%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-04-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2004%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-02-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2002%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-11-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2011%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
           }
         ]
       },
@@ -7063,6 +8049,56 @@
                 "hasPage": false
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2026-03-27",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2003%2027%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2026-01-04",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2026%2001%2004%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-26",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2026%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-24",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2024%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2025-12-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2012%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA%20"
+          },
+          {
+            "date": "2025-01-08",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2025%2001%2008%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2024-02-02",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2024%2002%2002%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-04-13",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2004%2013%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2022-02-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2022%2002%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-12-30",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2012%2030%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
+          },
+          {
+            "date": "2021-11-19",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%91%D0%B0%D0%BB%D0%B5%D1%82/2021%2011%2019%20%D0%A9%D0%B5%D0%BB%D0%BA%D1%83%D0%BD%D1%87%D0%B8%D0%BA"
           }
         ]
       },
@@ -7252,6 +8288,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2024-01-07",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2001%2007%20%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%B0%D0%BB%D0%B0-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82"
+          }
         ]
       },
       "conductors": [],
@@ -7355,6 +8397,12 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2024-01-07",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2001%2007%20%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%B0%D0%BB%D0%B0-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82"
+          }
         ]
       },
       "conductors": [],
@@ -7422,6 +8470,12 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2022-12-21",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2022%2012%2021%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%BE"
           }
         ]
       },
@@ -7550,6 +8604,20 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2025-05-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2005%2003%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
+          },
+          {
+            "date": "2024-03-06",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2003%2006%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
+          },
+          {
+            "date": "2024-01-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2001%2003%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
           }
         ]
       },
@@ -7711,6 +8779,20 @@
               }
             ]
           }
+        ],
+        "recordings": [
+          {
+            "date": "2025-05-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2005%2003%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
+          },
+          {
+            "date": "2024-03-06",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2003%2006%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
+          },
+          {
+            "date": "2024-01-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2001%2003%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
+          }
         ]
       },
       "conductors": [],
@@ -7870,6 +8952,20 @@
                 "hasPage": true
               }
             ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2025-05-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2025%2005%2003%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
+          },
+          {
+            "date": "2024-03-06",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2003%2006%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
+          },
+          {
+            "date": "2024-01-03",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2024%2001%2003%20%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B"
           }
         ]
       },

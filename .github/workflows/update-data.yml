@@ -26,7 +26,10 @@ jobs:
         with:
           node-version: 20
 
-      - name: Обновить афишу театра
+      - name: Обновить архив записей (Яндекс.Диск, только чтение)
+        run: node scripts/update-archive.mjs
+
+      - name: Обновить афишу театра (+ подставить ссылки на записи)
         run: node scripts/update-afisha.mjs
 
       - name: Обновить посты ВК (только чтение)
@@ -39,8 +42,8 @@ jobs:
         run: |
           git config user.name "afisha-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add app/data/afisha.json app/data/vk.json
-          git diff --cached --quiet || git commit -m "data: автообновление афиши и ВК"
+          git add app/data/afisha.json app/data/vk.json app/data/archive.json
+          git diff --cached --quiet || git commit -m "data: автообновление афиши, архива записей и ВК"
           git push
 
       - uses: actions/configure-pages@v5
