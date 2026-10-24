@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T09:14:31.045Z",
+  "updatedAt": "2026-10-24T14:42:47.639Z",
   "source": "https://mrteatr.ru/afisha/",
   "performances": [
     {
@@ -689,7 +689,7 @@
     {
       "id": 896,
       "date": "2026-10-30 19:00:00",
-      "hasTickets": false,
+      "hasTickets": true,
       "stage": null,
       "spectacle": {
         "slug": "lebedinoe-ozero",
