@@ -51,9 +51,6 @@ function renderAfisha(data) {
       const cast = (p.cast ?? [])
         .map((c) => `<div class="cast-row"><span class="cast-role">${c.role}</span><span class="cast-names">${c.names.join(', ')}</span></div>`)
         .join('');
-      const ticketBadge = p.hasTickets
-        ? '<span class="badge">билеты есть</span>'
-        : '<span class="badge no-tickets">билетов нет</span>';
       const durationLine = [p.spectacle.duration, p.spectacle.intermission].filter(Boolean).join(', ');
       const recordings = (p.spectacle.recordings ?? [])
         .map((r) => `<a class="recording-link" href="${r.url}" target="_blank" rel="noopener">${fmtDateOnly(r.date)}</a>`)
@@ -62,18 +59,21 @@ function renderAfisha(data) {
       return `
         <div class="card" data-id="${p.id}">
           <div class="card-head" onclick="this.closest('.card').classList.toggle('open')">
-            <div>
+            <div class="card-main">
               <div class="card-title">${p.spectacle.title}</div>
-              <div class="card-sub">${p.spectacle.author ?? ''} · ${p.spectacle.genre ?? ''}</div>
-              ${durationLine ? `<div class="card-sub">⏱ ${durationLine}</div>` : ''}
-              ${conductor ? `<div class="card-sub conductor-line">Дирижёр: ${conductor}</div>` : ''}
-              <div class="card-sub">${ticketBadge}<span class="badge">${p.spectacle.age ?? ''}</span></div>
+              <div class="card-sub">${[p.spectacle.author, p.spectacle.genre].filter(Boolean).join(' · ')}</div>
+              ${conductor ? `<div class="card-sub conductor-line">${conductor}</div>` : ''}
             </div>
-            <div class="card-date">${fmtDate(p.date)}</div>
+            <div class="card-aside">
+              <div class="date-pill">${fmtDate(p.date)}</div>
+              <div class="chip-row">
+                ${durationLine ? `<span class="chip">⏱ ${durationLine}</span>` : ''}
+                <span class="chip ${p.hasTickets ? 'chip-ok' : 'chip-no'}">${p.hasTickets ? 'билеты есть' : 'билетов нет'}</span>
+              </div>
+            </div>
           </div>
           <div class="card-details">
             ${cast}
-            ${p.spectacle.description ? `<div class="description">${p.spectacle.description}</div>` : ''}
             ${recordings ? `<div class="recordings"><div class="recordings-title">Видеозаписи прошлых показов</div><div class="recordings-list">${recordings}</div></div>` : ''}
           </div>
         </div>`;
