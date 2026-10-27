@@ -204,6 +204,14 @@ body {
   margin-left: 0.4rem;
 }
 
+.schedule-day .card-title { font-size: 0.95rem; }
+.schedule-day.today { border-color: var(--accent); }
+.schedule-day.today .card-title { color: var(--accent); }
+.schedule-day.past { opacity: 0.5; }
+.schedule-events { margin-top: 0.4rem; display: flex; flex-direction: column; gap: 0.25rem; }
+.schedule-event { font-size: 0.88rem; line-height: 1.35; }
+.schedule-source { display: block; text-align: center; margin: 0.4rem 0 1rem; }
+
 .empty { color: var(--text-dim); text-align: center; padding: 2rem 0; }
 
 .offline-banner {
