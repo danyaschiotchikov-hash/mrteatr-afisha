@@ -38,11 +38,16 @@ jobs:
           VK_TOKEN: ${{ secrets.VK_TOKEN }}
         run: node scripts/update-vk.mjs
 
+      - name: Распознать расписание хора из фото ВК (Claude vision)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/update-schedule.mjs
+
       - name: Закоммитить обновлённые данные
         run: |
           git config user.name "afisha-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add app/data/afisha.json app/data/vk.json app/data/archive.json
+          git add app/data/afisha.json app/data/vk.json app/data/archive.json app/data/schedule.json
           git diff --cached --quiet || git commit -m "data: автообновление афиши, архива записей и ВК"
           git push
 

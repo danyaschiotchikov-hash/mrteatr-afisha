@@ -81,6 +81,34 @@ function renderAfisha(data) {
     .join('');
 }
 
+function renderSchedule(data) {
+  const list = document.getElementById('schedule-list');
+  if (!data || !data.days?.length) {
+    list.innerHTML = '<div class="empty">Расписание пока не распознано</div>';
+    return;
+  }
+
+  const today = new Date().toISOString().slice(0, 10);
+
+  const daysHtml = data.days
+    .map((day) => {
+      const cls = day.date === today ? ' today' : day.date < today ? ' past' : '';
+      const events = day.events.map((e) => `<div class="schedule-event">${e}</div>`).join('');
+      return `
+        <div class="card schedule-day${cls}">
+          <div class="card-title">${fmtDateOnly(day.date)}</div>
+          <div class="schedule-events">${events}</div>
+        </div>`;
+    })
+    .join('');
+
+  const sourceHtml = data.sourcePostUrl
+    ? `<a class="vk-link schedule-source" href="${data.sourcePostUrl}" target="_blank" rel="noopener">Исходный пост ВК</a>`
+    : '';
+
+  list.innerHTML = daysHtml + sourceHtml;
+}
+
 function renderVk(data) {
   const list = document.getElementById('vk-list');
   if (!data || !data.posts?.length) {
@@ -131,8 +159,13 @@ async function init() {
     navigator.serviceWorker.register('service-worker.js').catch((err) => console.warn('SW register failed', err));
   }
 
-  const [afisha, vk] = await Promise.all([loadJson('data/afisha.json'), loadJson('data/vk.json')]);
+  const [afisha, schedule, vk] = await Promise.all([
+    loadJson('data/afisha.json'),
+    loadJson('data/schedule.json'),
+    loadJson('data/vk.json'),
+  ]);
   renderAfisha(afisha);
+  renderSchedule(schedule);
   renderVk(vk);
 }
 
