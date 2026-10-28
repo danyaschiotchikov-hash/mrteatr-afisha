@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T16:37:17.454Z",
+  "updatedAt": "2026-10-28T10:55:33.561Z",
   "source": "https://mrteatr.ru/afisha/",
   "performances": [
     {
@@ -2059,6 +2059,122 @@
             "Павел Алдаков",
             "Никита Богданов"
           ]
+        }
+      ]
+    },
+    {
+      "id": 995,
+      "date": "2026-11-11 11:00:00",
+      "hasTickets": false,
+      "stage": null,
+      "spectacle": {
+        "slug": "koshkin-dom-gastroli",
+        "title": "Кошкин дом. Гастроли",
+        "author": "П. Вальдгардт",
+        "genre": "Музыкальная сказка в одном действии",
+        "type": "Для детей",
+        "age": "6+",
+        "duration": "1 час",
+        "intermission": null,
+        "description": "Смешная и поучительная история по сказке С. Я. Маршака для маленьких зрителей и их родителей о том, что дом – это не вещи, дом – это те, кто вас любит.",
+        "image": "https://mrteatr.ru/content/spectacles/05/054339ffb33fe79379eeb0f3376db0ca-img-8326.jpg",
+        "premiereDate": "2019-02-24",
+        "authors": [
+          {
+            "position": "Либретто",
+            "persons": [
+              {
+                "slug": "",
+                "name": "Самуил Маршак",
+                "hasPage": false
+              }
+            ]
+          },
+          {
+            "position": "Режиссер",
+            "persons": [
+              {
+                "slug": "",
+                "name": "Юлия Чудненко",
+                "hasPage": false
+              }
+            ]
+          },
+          {
+            "position": "Музыкальный руководитель и дирижер",
+            "persons": [
+              {
+                "slug": "vladimir-kulagin",
+                "name": "Владимир Кулагин",
+                "hasPage": true
+              }
+            ]
+          },
+          {
+            "position": "Художник-постановщик",
+            "persons": [
+              {
+                "slug": "",
+                "name": "Анна Курочкина",
+                "hasPage": false
+              }
+            ]
+          },
+          {
+            "position": "Балетмейстер-постановщик",
+            "persons": [
+              {
+                "slug": "",
+                "name": "Олег Щукарёв",
+                "hasPage": false
+              }
+            ]
+          }
+        ],
+        "recordings": [
+          {
+            "date": "2021-10-16",
+            "url": "https://disk.yandex.ru/d/VdZkIGtNvMAOuw/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0/2021%2010%2016%20%D0%9A%D0%BE%D1%88%D0%BA%D0%B8%D0%BD%20%D0%B4%D0%BE%D0%BC"
+          }
+        ]
+      },
+      "conductors": [],
+      "cast": [
+        {
+          "role": "Кошка",
+          "names": []
+        },
+        {
+          "role": "Кот Василий",
+          "names": []
+        },
+        {
+          "role": "Котята, поросята",
+          "names": []
+        },
+        {
+          "role": "Коза",
+          "names": []
+        },
+        {
+          "role": "Козёл",
+          "names": []
+        },
+        {
+          "role": "Курица",
+          "names": []
+        },
+        {
+          "role": "Петух",
+          "names": []
+        },
+        {
+          "role": "Свинья",
+          "names": []
+        },
+        {
+          "role": "Грачи, Бобры, Петушки, Рассказчики",
+          "names": []
         }
       ]
     },
