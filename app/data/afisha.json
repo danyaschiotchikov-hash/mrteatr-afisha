@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T12:45:14.445Z",
+  "updatedAt": "2026-11-14T11:53:14.439Z",
   "source": "https://mrteatr.ru/afisha/",
   "performances": [
     {
@@ -1597,6 +1597,40 @@
           "names": []
         }
       ]
+    },
+    {
+      "id": 999,
+      "date": "2026-11-29 17:00:00",
+      "hasTickets": true,
+      "stage": null,
+      "spectacle": {
+        "slug": "taynaya-komnata-ili-v-pogone-za-belym-krolikom-dlya-teh-kto-starshe-12-let",
+        "title": "Тайная комната, или В погоне за Белым кроликом (для тех, кто старше 12 лет)",
+        "author": "",
+        "genre": "Театральный квест",
+        "type": "Театральный квест",
+        "age": "12+",
+        "duration": "1 час",
+        "intermission": null,
+        "description": "В нашем театре стали происходить странные вещи: спектакли в афише перепутались, декорации пропадают прямо со сцены, зрители не могут найти места в зрительном зале. Значит, кто-то открыл Тайную комнату! И только вы можете спасти театр.  Квест рассчитан на взрослых и детей с 12 лет и старше.",
+        "image": "https://mrteatr.ru/content/spectacles/65/65d1052c39905f5909dab9d15eae1689-tg7w3wo9ooam5jo3u0kkcgv4fq4ct1dwzp0kdwkt-axz2amegbymjni-9jtrfry.jpg",
+        "premiereDate": "",
+        "authors": [
+          {
+            "position": "Автор и ведущая",
+            "persons": [
+              {
+                "slug": "",
+                "name": "Елена Сапегина",
+                "hasPage": false
+              }
+            ]
+          }
+        ],
+        "recordings": []
+      },
+      "conductors": [],
+      "cast": []
     },
     {
       "id": 933,
