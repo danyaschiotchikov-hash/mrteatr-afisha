@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:10:49.218Z",
+  "updatedAt": "2026-11-22T12:58:13.883Z",
   "source": "https://mrteatr.ru/afisha/",
   "performances": [
     {
@@ -158,7 +158,7 @@
     {
       "id": 956,
       "date": "2026-11-23 18:30:00",
-      "hasTickets": true,
+      "hasTickets": false,
       "stage": null,
       "spectacle": {
         "slug": "yubileynoe-izmerenie-kod-35",
